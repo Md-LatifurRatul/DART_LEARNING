@@ -48,13 +48,13 @@ void main() {
       print('Vowel is found');
       break;
     }
-    if (str[i].toLowerCase() == 'a' ||
-        str[i].toLowerCase() == 'e' ||
-        str[i].toLowerCase() == 'i' ||
-        str[i].toLowerCase() == 'o' ||
-        str[i].toLowerCase() == 'u') {
-      isFound = true;
-    }
+    // if (str[i].toLowerCase() == 'a' ||
+    //     str[i].toLowerCase() == 'e' ||
+    //     str[i].toLowerCase() == 'i' ||
+    //     str[i].toLowerCase() == 'o' ||
+    //     str[i].toLowerCase() == 'u') {
+    //   isFound = true;
+    // }
 
     i++;
   }
